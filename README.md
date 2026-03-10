@@ -183,7 +183,7 @@ Healthcare-Disease-Intelligence-Dashboard
 
 ## Dashboard Preview
 
-*(Add a screenshot of your Power BI dashboard here)*
+![HealthCare_Analysis](HealthCare_Analysis.png)
 
 ---
 
